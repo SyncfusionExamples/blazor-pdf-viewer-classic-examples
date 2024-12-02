@@ -1,5 +1,5 @@
 # Render the PDF Viewer on a Tab component
-This example shows how to render the PDF Viewer component in Syncfusion Tab component. In this example, Splitter component is hosted as a child component of the Tab component and then the PDF viewer is hosted inside the content template of the splitter pane.
+This example shows how to render the PDF Viewer component in Syncfusion&reg; Tab component. In this example, Splitter component is hosted as a child component of the Tab component and then the PDF viewer is hosted inside the content template of the splitter pane.
 
 Documentation: https://blazor.syncfusion.com/documentation/pdfviewer/how-to/create-pdfviewer-in-a-splitter-component
 

@@ -1,5 +1,5 @@
 # Print when PDF Viewer in a dialog component
-This sample shows how to print a PDF document when the PDF viewer is inside a Syncfusion Dialog component.
+This sample shows how to print a PDF document when the PDF viewer is inside a Syncfusion&reg; Dialog component.
 
 Documentation: https://blazor.syncfusion.com/documentation/pdfviewer/print
 
