@@ -1,5 +1,5 @@
 # PDF-Viewer-Web
-This repository contains the examples of Syncfusion&reg;       PDF Viewer (Web) control.
+This repository contains the examples of Syncfusion&reg; PDF Viewer (Web) control.
 
 ## Key features
 The Blazor PDF Viewer component allows to view, print, and annotate the PDF files in your Blazor applications and its key features are,
@@ -54,4 +54,4 @@ ___
 
 [sales@syncfusion.com](mailto:sales@syncfusion.com?utm_source=github&utm_medium=github&utm_campaign=github-xlsio-examples) | [www.syncfusion.com](https://www.syncfusion.com?utm_source=github&utm_medium=github&utm_campaign=github-xlsio-examples) | Toll Free: 1-888-9 DOTNET
 
-� Copyright 2022 Syncfusion, Inc. All Rights Reserved. The Syncfusion&reg; Essential Studio&reg;license and copyright applies to this distribution.
+� Copyright 2022 Syncfusion, Inc. All Rights Reserved. The Syncfusion&reg; Essential Studio&reg; license and copyright applies to this distribution.
