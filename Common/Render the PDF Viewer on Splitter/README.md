@@ -1,5 +1,5 @@
 # Render the PDF viewer on a Splitter component
-This example shows how to render the PDF Viewer component on a Syncfusion Splitter component. In this sample, PDF viewer is hosted inside the content template of the splitter pane.
+This example shows how to render the PDF Viewer component on a Syncfusion&reg; Splitter component. In this sample, PDF viewer is hosted inside the content template of the splitter pane.
 
 Documentation: https://blazor.syncfusion.com/documentation/pdfviewer/how-to/create-pdfviewer-in-a-splitter-component
 

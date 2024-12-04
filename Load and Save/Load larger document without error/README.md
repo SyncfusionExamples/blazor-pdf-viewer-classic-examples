@@ -1,6 +1,6 @@
 # Resolve "Maximum Receive Message Size" error in the PDF viewer
 
-This sample shows how to resolve ""Maximum Receive Message size"" error in the Syncfusion Blazor PDF Viewer while loading a larger PDF document. The Syncfusion’s Blazor PDF Viewer component allows to increase the connection buffer size by adding the below service in program.cs file if the size of the PDFViewer is too large.
+This sample shows how to resolve ""Maximum Receive Message size"" error in the Syncfusion&reg; Blazor PDF Viewer while loading a larger PDF document. The Syncfusion’s Blazor PDF Viewer component allows to increase the connection buffer size by adding the below service in program.cs file if the size of the PDFViewer is too large.
 
 Documentation: https://blazor.syncfusion.com/documentation/pdfviewer-2/how-to/increase-connection-buffer-size
 
